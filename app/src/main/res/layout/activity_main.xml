@@ -24,10 +24,10 @@
         app:layout_constraintVertical_bias="0.946" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/bus1"
         android:layout_width="match_parent"
-        android:layout_height="251dp"
-        app:srcCompat="@drawable/bus1pr" />
+        android:layout_height="212dp"
+        app:srcCompat="@drawable/Bus1Pr" />
 
 
 </RelativeLayout>
