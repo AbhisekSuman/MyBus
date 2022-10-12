@@ -4,9 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/mybus"
         android:layout_width="274dp"
         android:layout_height="50dp"
         android:layout_alignParentTop="true"
@@ -27,7 +29,10 @@
         android:id="@+id/bus1"
         android:layout_width="match_parent"
         android:layout_height="212dp"
-        app:srcCompat="@drawable/Bus1Pr" />
+        app:srcCompat="@drawable/bus1pr"/>
+
+
+
 
 
 </RelativeLayout>
